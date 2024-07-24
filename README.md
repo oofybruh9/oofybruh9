@@ -8,3 +8,4 @@
 - 📫 How to reach me: NO WAY
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding at the age of 8
+- ▶️ YouTube! [@oofybruh9](https://youtube.com/@oofybruh9)
