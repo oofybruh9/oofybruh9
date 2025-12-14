@@ -1,4 +1,5 @@
 <h1 align="center">wsg? im oofybruh9 :O</h1>
+<h2 align="center">i make side projects no one will use and are in work in progress</h2>
 
 ###
 
@@ -56,7 +57,7 @@
 
 <div align="center">
   <a href="https://x.com/oofybruh9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -65,17 +66,18 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://oofybruh9.itch.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itchdotio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
+  <a href="https://oofybruh9.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=website&logo=jekyll&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oofybruh9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=my%20stats%20:P" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oofybruh9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=my%20most%20used%20langs%20:0" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=oofybruh9&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=oofybruh9&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oofybruh9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true&order=1&custom_title=my%20stats%20:P" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oofybruh9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=true&order=2&custom_title=my%20most%20used%20langs%20:0" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -88,10 +90,10 @@
 
 ###
 
-- 🔭 I’m currently working on [DevHack](https://github.com/oofybruh9/devhack), [My Website](https://github.com/oofybruh9/oofybruh9.github.io), [Bluey Edits](https://blueyeditplus.rf.gd/), [dcmdl](https://github.com/oofyb9/dcmdl), [Cameleo](https://github.com/oofybruh9/Cameleo), [Mario PyPaint](https://github.com/oofybruh9/mario-paint), [retrospace](https://github.com/oofybruh9/retrospace), [Devcontainer Templates](https://github.com/oofybruh9/devcontainer-templates).
-- 🌱 I’m currently learning Liquid, HTML, CSS, JS, Bash, and Docker
-- 👯 I’m looking to collaborate anything useful (like one-click install ES-DE + Emulators)
-- 🤔 I’m looking for help with coding and design
+- 🔭 I’m currently working on [dcmdl](https://github.com/oofyb9/dcmdl), [My Website](https://github.com/oofybruh9/oofybruh9.github.io), [Bluey Edits](https://blueyeditplus.rf.gd/), [charfind](https://github.com/oofybruh9/charfind), [pyblog (not started)](https://github.com/oofybruh9/pyblog), [Mario PyPaint](https://github.com/oofybruh9/mario-paint), [metapack](https://github.com/oofybruh9/metapack), and [Retrofire](https://github.com/oofybruh9/retrofire).
+- 🌱 I’m currently learning HTML, CSS, JS, Bash, Docker, Python, Vue
+- 👯 I’m looking to collaborate anything useful (like one-liner for downloading a video)
+- 🤔 I’m looking for help with coding in C++ & Rust and design
 - 💬 Ask me about anything related to what i know, Linux, or Emulation
 - 📫 How to reach me: tbd
 - 😄 Pronouns: he/him
